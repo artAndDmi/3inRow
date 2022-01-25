@@ -11,7 +11,7 @@ let config = {
 
     gemSize: 64,
 
-    imagesCoin: ["assets/Andrei.png", "assets/Egor.png", "assets/Irina.png", "assets/Ksenia.png", "assets/Mishanya.png", "assets/Serega.png", "assets/Sonya.png", "assets/Shkiper.png"],
+    imagesCoin: ["Andrei.png", "Egor.png", "Irina.png", "Ksenia.png", "Mishanya.png", "Serega.png", "Sonya.png", "Shkiper.png"],
 
     gemClass: "gem",
     gemIdPrefix: "gem",
